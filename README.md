@@ -2,7 +2,7 @@
 
 This repository contains the files required for the peer-graded final assignment.
 belongs to Nihal Pardeshi
-
+can be edited and deployed via VS code
 ## Files
 - LICENSE → Apache 2.0 license
 - README.md → This file
